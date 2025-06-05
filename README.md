@@ -2,6 +2,8 @@
 
 This project explores key behavioral, demographic, and financial patterns that correlate with customer churn in a retail banking environment. Below are the findings derived from extensive SQL analysis and visualized via Power BI.
 
+![dashboard](image.png)
+
 ---
 
 ### 1. 🌍 Country-wise Churn Behavior
